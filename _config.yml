@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Aditya Tb
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,10 +29,10 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Code. Music. Thoughts.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [music-tech, machine learning, audio deepfake detection]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
+  name:                <Aditya> <Tb>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -78,14 +78,6 @@ permalink:             /blog/:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /blog/:num/
 
-<<<<<<< HEAD
-=======
-url: https://adityatb.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
->>>>>>> 392ec06 (Update url)
 
 # Theme
 # ---------------------------------------------------------------------------------------
