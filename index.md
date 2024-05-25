@@ -1,45 +1,65 @@
 ---
 layout: page
-title: Thank You!
+title: Welcome!  🎉
 sitemap: false
+cover: true
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+I’m an electronics engineer with a musical twist that turned into a sound recordist and turned into a machine learning scientist/engineer. I generally have a curious mind and like to explore new things. I went from guitar to music production, then over to signal processing and haptic feedback in music, and somehow went to deep learning with audio signals. From noise reduction, blind source separation, differentiable audio signal processing and now to deepfake detection in audio. Hmu - I like to chat about this stuff.
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+[//]: # (## First Steps)
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+[//]: # (Start by reading the [Documentation]{:.heading.flip-title}.)
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+[//]: # (Specifically, the chapters below should be relevant now:)
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+[//]: # ()
+[//]: # (* [Install]{:.heading.flip-title} --- How to install and run Hydejack.)
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+[//]: # (* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.)
+
+[//]: # ({:.related-posts.faded})
+
+[//]: # ()
+[//]: # (After you've familiarized yourself with Hydejack, you can delete the following folders and files)
+
+[//]: # (containing example content:)
+
+[//]: # (~~~)
+
+[//]: # (├── _featured_categories)
+
+[//]: # (│   └── example.md)
+
+[//]: # (├── _projects)
+
+[//]: # (│   └── *)
+
+[//]: # (├── docs)
+
+[//]: # (├── example)
+
+[//]: # (├── licenses)
+
+[//]: # (├── assets)
+
+[//]: # (│   └── img)
+
+[//]: # (│       ├── blog)
+
+[//]: # (│       ├── docs)
+
+[//]: # (│       └── projects)
+
+[//]: # (├── CHANGELOG.md)
+
+[//]: # (├── forms-by-example.md)
+
+[//]: # (├── LICENSE.md)
+
+[//]: # (└── NOTICE.md)
+
+[//]: # (~~~)
 
 [documentation]: docs/README.md
 [install]: docs/install.md
