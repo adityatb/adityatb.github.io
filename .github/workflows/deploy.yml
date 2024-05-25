@@ -77,6 +77,15 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Build Resume
+        uses: Devleaps/jsonresume-generator@v1
+        with:
+          action: render
+          file: 'assets/json/resume.json'
+          folder: 'assets/pdf/example_pdf.pdf'
+          theme-name: jsonresume-theme-elegant
+          theme-local: false
+          output-type: 'pdf'
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
