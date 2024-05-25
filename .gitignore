@@ -1,0 +1,32 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
+
+# Python
+*.pyc
+__pycache__/
+
+# JavaScript/Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ruby/Bundler
+.bundle/
+
+# PHP/Composer
+/vendor/
+composer.phar
+composer.lock
+
+# IDEs and editors
+/.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
