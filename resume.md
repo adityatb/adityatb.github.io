@@ -16,7 +16,7 @@ right_column:
   - languages
   - skills
   - interests
-no_language_icons: true
+no_language_icons: false
 no_skill_icons: false
 buttons:
   print: true

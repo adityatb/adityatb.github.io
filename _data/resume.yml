@@ -2,175 +2,102 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Aditya Tb"
-  label: "Machine Learning Research Engineer | Audio Deepfake Detection"
-  picture: #"https://via.placeholder.com/240x240"
-  email: "aditya.tirumala@mail.mcgill.ca"
-#  phone: "(912) 555-4321"
-  website: "https://adityatb.github.io/"
+  name: "Richard Hendricks"
+  label: "Programmer"
+  picture: "https://via.placeholder.com/240x240"
+  email: ""
+  phone: "(912) 555-4321"
+  website: "https://piedpiper.com"
   summary: >
-    ML Research Engineer in Speech/Audio/Music with a background in Audio Engineering and Music Technology. Expertise in Differentiable Signal
-    Processing, Audio Watermarking and Deepfake Detection. Currently researching countermeasure systems to assist in ethical use of generative AI
-    systems. Currently based in Canada.
+    Richard hails from Tulsa.
+    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
+    Before starting Pied Piper, he worked for Hooli as a part time software developer.
+    While his work focuses on applied information theory,
+    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
+    his non-work interests range widely,
+    everything from quantum computing to chaos theory.
+    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+    Open `_data/resume.yml` to edit this text.
   location:
-#    address: "Ottawa"
-#    postalCode: "CA 94115"
-    city: "Ottawa"
-    countryCode: "CA"
-    region: "Ontario"
+    address: "2712 Broadway St"
+    postalCode: "CA 94115"
+    city: "San Francisco"
+    countryCode: "US"
+    region: "California"
   profiles:
-    - network: "GitHub"
-      username: "adityatb"
-      url: "https://github.com/adityatb"
+    - network: "Twitter"
+      username: "RHendricksCEO"
+      url: ""
     - network: "LinkedIn"
-      username: "in/adityatb"
-      url: "https://www.linkedin.com/in/adityatb/"
+      username: "Richard Hendricks"
+      url: ""
 work:
-  - company: "Resemble AI"
-    position: "Machine Learning Research Engineer"
-    website: "https://resemble.ai"
-    startDate: "2020-04-06"
+  - company: "Pied Piper"
+    position: "CEO/President"
+    website: "https://piedpiper.com"
+    startDate: "2013-12-01"
     endDate: ""
     summary: >
-      Resemble AI is a voice synthesis platform that allows users to create expressive, realistic, and human-like voices. 
-      I am currently leading the research and development of the deepfake detection system for audio.
+      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
+      consistently fielded high Weisman Scores™ that are not merely competitive,
+      but approach the theoretical limit of lossless compression.
     highlights:
-      - "Implemented state of the art accuracy on real‑world classification of speech+audio. EER < 6% on Franhoufer's In the Wild dataset."
-      - "Improving and maintaining changes to production via CI/CD and replicate AI."
-      - "Deep Learning R&D: Neural Upsampling, Audio Watermarking (neural/non‑neural), Audio Deepfake Detection"
-
-  - company: "McGill University"
-    position: "Teaching Assistant"
-    website: "https://mcgill.ca"
-    startDate: "2017-09-15"
-    endDate: "2017-12-22"
-    summary: >
-      McGill University's Department of Music Technology teaches the MUMT 305 course on MIDI synthesis using Max/MSP and C++.
+      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      - "Successfully won Techcrunch Disrupt"
+      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+volunteer:
+  - organization: "CoderDojo"
+    position: "Teacher"
+    website: "https://coderdojo.com/"
+    startDate: "2012-01-01"
+    endDate: "2013-01-01"
+    summary: "Global movement of free coding clubs for young people."
     highlights:
-      - "Assisting course instructors and students with course material and grading assignments"
-      - "Technical Skills: Max/MSP, C++, Arduino IDE"
-
-  - company: "CIRMMT"
-    position: "Research Assistant"
-    website: "https://mcgill.ca"
-    startDate: "2017-05-15"
-    endDate: "2017-08-22"
-    summary: >
-      The Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) is a multi-disciplinary research group that focuses on the
-        scientific study of music, sound, and technology. Assisted in verifying an AI based non-intrusive pose-estimation system 
-      with data from a Qualisys Motion Capture system.
-    highlights:
-      - "Assisted a research team of 5 in capturing and post‑processing motion capture data for a CIRMMT Industry Partner."
-      - "Motion Capture and Post-Processing with Qualisys MoCap"
-
-  - company: "Sample Culture"
-    position: "Founder, Sound Designer"
-#    website: "https://mcgill.ca"
-    startDate: "2014-08-15"
-    endDate: "2016-08-19"
-    summary: >
-      Sample Culture was a location sound recording, sound design and audio production house that catered to the needs of advertising agencies, independent filmmakers and
-        musicians in Hyderabad, India.
-    highlights:
-      - "Designed and constructed a soundproof recording studio for Sample Culture, with a flat response b/w 20Hz-20kHz A-weighted."
-      - "Award winning compositions, location sound and sound design for independent films and advertising agencies."
-#volunteer:
-#  - organization: "CoderDojo"
-#    position: "Teacher"
-#    website: "https://coderdojo.com/"
-#    startDate: "2012-01-01"
-#    endDate: "2013-01-01"
-#    summary: "Global movement of free coding clubs for young people."
-#    highlights:
-#      - "Awarded 'Teacher of the Month'"
+      - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "McGill University"
-    area: "Music Technology"
-    studyType: "Masters"
-    startDate: "2016-09-08"
-    endDate: "2019-10-20"
-#    gpa: "3.9"
-    courses:
-      - "MUMT 605 - Digital Sound Synthesis and Audio Processing"
-      - "MUMT 618 - Computational Modeling of Musical Acoustic Systems"
-      - "MUMT 621 - Music Information Acquisition, Preservation, and Retrieval"
-      - "MUMT 619 - Input Devices for Musical Expression"
-      - "MUMT 620 - Gestural Control of Sound Synthesis"
-  - institution: "School of Audio Engineering"
-    area: "Audio Engineering"
+  - institution: "University of Oklahoma"
+    area: "Information Technology"
     studyType: "Bachelor"
-    startDate: "2010-05-08"
-    endDate: "2013-02-20"
+    startDate: "2011-06-01"
+    endDate: "2014-01-01"
+    gpa: "4.0"
     courses:
-      - "Procedural Audio Design with Max/MSP, Pure Data"
-      - "Thesis: Procedural Footstep synthesis for video games"
-  - institution: "Jawaharlal Nehru Technological University (JNTU)"
-    area: "Electronics and Communication Engineering"
-    studyType: "Bachelor"
-    startDate: "2005-09-05"
-    endDate: "2009-05-05"
-
-#awards:
-#  - title: "Digital Compression Pioneer Award"
-#    date: "2014-11-01"
-#    awarder: "Techcrunch"
-#    summary: "There is no spoon."
+      - "DB1101 - Basic SQL"
+      - "CS2011 - Java Introduction"
+awards:
+  - title: "Digital Compression Pioneer Award"
+    date: "2014-11-01"
+    awarder: "Techcrunch"
+    summary: "There is no spoon."
 publications:
-  - name: "Defining a vibrotactile toolkit for digital musical instruments: characterizing voice coil actuators, effects of loading, and equalization of the
-frequency response"
-    publisher: "Journal on Multimodal User Interfaces 14, Springer"
-    releaseDate: "2020-07-01"
-    website: "https://link.springer.com/article/10.1007/s12193-020-00340-0"
-    summary: "Given the extreme requirements of musical performances, there is a need for solutions allowing for independent control of frequency and amplitude over a wide frequency bandwidth (40–1000 Hz) and low harmonic distortion, so that flexible and high-quality vibrotactile feedback can be displayed. In this paper, we evaluate cost-effective and portable solutions that meet these requirements."
-
-  - name: "Autoregressive parameter estimation for equalizing vibrotactile systems"
-    publisher: "International Workshop on Haptic and Audio Interaction Design-HAID2019"
-    releaseDate: "2019-03-10"
-    website: "https://hal.science/hal-02013514v2/document"
-    summary: "For advanced musical use, it is essential to perform the characterization of the amplifiers and actuators
-involved, as well as the equalization of their overall frequency response characteristics, a step typically implemented with the help
-of manually configured parametric equalizers. This paper proposes
-an autoregressive method that automatically estimates minimum-phase filter parameters, which by design, remain stable upon inversion."
-
+  - name: "Video compression for 3d media"
+    publisher: "Hooli"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Machine Learning"
+  - name: "Web Development"
     level: "Master"
     keywords:
-      - "PyTorch"
-      - "Scikit-learn"
-      - "Python"
-      - "Graph Neural Networks"
-      - "Differentiable Signal Processing"
-  - name: "Audio Signal Processing"
+      - "HTML"
+      - "CSS"
+      - "Javascript"
+  - name: "Compression"
     level: "Master"
     keywords:
-      - "Time-Frequency Analysis"
-      - "FFT/DFT"
-      - "DWT"
-      - "Polyphase Filterbanks"
-  - name: "Backend Development"
-    level: "Intermediate"
-    keywords:
-      - "Docker"
-      - "Flask"
-      - "Git"
-      - "FastAPI"
-      - "Django"
-#languages:
-#  - language: "English"
-#    fluency: "Native speaker"
+      - "Mpeg"
+      - "MP4"
+      - "GIF"
+languages:
+  - language: "English"
+    fluency: "Native speaker"
 interests:
-  - name: "Real-Time Differential Signal Processing"
+  - name: "Wildlife"
     keywords:
-      - "Tone Transfer"
-      - "Automatic Mixing"
-  - name: "Audio Deepfake Detection"
-    keywords:
-      - "One Class Learning"
-      - "Ensemble Learning"
-      - "Spectro-Temporal Graphs"
-#references:
-#  - name: "Erlich Bachman"
-#    reference: >
-#      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#      Company proved that he will be a valuable addition to any company.
+      - "Ferrets"
+      - "Unicorns"
+references:
+  - name: "Erlich Bachman"
+    reference: >
+      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+      Company proved that he will be a valuable addition to any company.
