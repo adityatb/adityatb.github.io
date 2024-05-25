@@ -82,7 +82,7 @@ jobs:
         with:
           action: render
           file: 'assets/json/resume.json'
-          folder: 'assets/pdf'
+          folder: 'assets/pdf/resume.pdf'
           theme-name: jsonresume-theme-elegant
           theme-local: false
           output-type: 'pdf'
