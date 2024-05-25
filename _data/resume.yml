@@ -130,7 +130,7 @@ frequency response"
     summary: "For advanced musical use, it is essential to perform the characterization of the amplifiers and actuators
 involved, as well as the equalization of their overall frequency response characteristics, a step typically implemented with the help
 of manually configured parametric equalizers. This paper proposes
-an autoregressive method that automatically estimates minimumphase filter parameters, which by design, remain stable upon inversion."
+an autoregressive method that automatically estimates minimum-phase filter parameters, which by design, remain stable upon inversion."
 
 skills:
   - name: "Machine Learning"
