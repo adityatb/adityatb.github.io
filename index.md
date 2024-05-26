@@ -9,7 +9,7 @@ As an electronics engineer with a penchant for music, my career has taken an int
 
 The diverse areas constantly involved adapting and iterating to improve audio outputs by optimizing a suitable statistical heuristic with gradual iterative steps, i.e. the doorstep of Machine Learning. Pretty soon, before anyone could say `adaptive filter`, I was poking around with hyperplanes, clusterings, regressions and lost deep in the world of audio deep learning. My work has spanned areas like noise reduction, blind source separation, differentiable audio signal processing. More recently, my professional focus has been on speaker verification systems and leading the [audio deepfake detection efforts at Resemble AI](https://www.resemble.ai/detect/), while more generally I spend my life overthinking the nuances of [techno-feudalism with a side of artificial intelligence](https://www.ted.com/talks/yanis_varoufakis_capitalism_will_eat_democracy_unless_we_speak_up) and the existential capitalist [moloch traps](https://www.ted.com/talks/liv_boeree_the_dark_side_of_competition_in_ai) that we're seemingly always walking into.
 
-I'm always open to chat about these topics and happy to mentor anyone finding themselves taking a similar journey.
+I'm always open to chat about these topics or generally advise other humans finding themselves taking a similar journey to mine and help re-cycle some my experiences into theirs.
 
 [//]: # (## First Steps)
 
