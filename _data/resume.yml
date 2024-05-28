@@ -3,14 +3,14 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Aditya Tb"
-  label: "Machine Learning Research Engineer | Music, Audio, Speech Tech | Audio Deepfake Detection"
+  label: "Machine Learning Research Engineer | Music, Audio, Speech Tech"
   picture: #"https://via.placeholder.com/240x240"
   email: "aditya.tirumala@mail.mcgill.ca"
 #  phone: "(912) 555-4321"
   website: "https://adityatb.github.io/"
   summary: >
-    ML Research Engineer in Speech/Audio/Music with a background in Audio Engineering and Music Technology. Expertise in Differentiable Signal
-    Processing, Audio Watermarking and Deepfake Detection. Currently researching countermeasure systems to assist in ethical use of generative AI
+    ML Research Engineer in Speech/Audio/Music with a multi-discplinary background in Audio Engineering and Music Technology. Expertise in Signal
+    Processing, Generative AI and Deepfake Detection for Audio. Currently researching countermeasure systems to assist in ethical use of generative AI
     systems. Currently based in Canada.
   location:
 #    address: "Ottawa"
