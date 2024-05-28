@@ -157,6 +157,8 @@ skills:
       - "FFT/DFT"
       - "DWT"
       - "Polyphase Filterbanks"
+      - "MIR: Music Information Retrieval"
+      - "Audio Features"
   - name: "Backend Development"
     level: "Intermediate"
     keywords:
