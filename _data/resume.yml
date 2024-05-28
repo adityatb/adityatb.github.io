@@ -181,10 +181,10 @@ interests:
     keywords:
       - "Audio Conditioned vs Text Conditioned Synthesis"
       - "Audio Watermarking"
-references:
-  - name: "Marcelo M. Wanderley"
-  - name: "Philippe Depalle"
-  - name: "Ichiro Fujinaga"
+#references:
+#  - name: "Marcelo M. Wanderley"
+#  - name: "Philippe Depalle"
+#  - name: "Ichiro Fujinaga"
 #    reference: >
 #      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
 #      Company proved that he will be a valuable addition to any company.
