@@ -149,6 +149,8 @@ skills:
       - "Python"
       - "Graph Neural Networks"
       - "Differentiable Signal Processing"
+      - "Transformers"
+      - "Audio Latent Diffusion"
   - name: "Audio Signal Processing"
     level: "Master"
     keywords:
