@@ -32,10 +32,9 @@ work:
     startDate: "2020-04-06"
     endDate: ""
     summary: >
-      Resemble AI is a voice synthesis platform that allows users to create expressive, realistic, and human-like voices. 
       I am currently leading the research and development of the deepfake detection system for audio.
     highlights:
-      - "Implemented state of the art accuracy on real‑world classification of speech+audio. EER < 6% on Franhoufer's In the Wild dataset."
+      - "State of the art accuracy on real‑world classification of speech+audio. EER < 6% on Franhoufer's In the Wild dataset."
       - "Improving and maintaining changes to production via CI/CD and replicate AI."
       - "Deep Learning R&D: Neural Upsampling, Audio Watermarking (neural/non‑neural), Audio Deepfake Detection"
 
@@ -69,10 +68,10 @@ work:
     startDate: "2014-08-15"
     endDate: "2016-08-19"
     summary: >
-      Sample Culture was a location sound recording, sound design and audio production house that catered to the needs of advertising agencies, independent filmmakers and
+      Launched Sample Culture - location sound recording, sound design and audio production house, catering to the needs of advertising agencies, independent filmmakers and
         musicians in Hyderabad, India.
     highlights:
-      - "Designed and constructed a soundproof recording studio for Sample Culture, with a flat response b/w 20Hz-20kHz A-weighted."
+      - "Constructed a soundproof recording studio for Sample Culture, with a flat response b/w 20Hz-20kHz A-weighted."
       - "Award winning compositions, location sound and sound design for independent films and advertising agencies."
 
 #misc_work:
