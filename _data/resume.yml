@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Aditya Tb"
-  label: "Machine Learning Research Engineer | Audio Deepfake Detection"
+  label: "Machine Learning Research Engineer | Music, Audio, Speech Tech | Audio Deepfake Detection"
   picture: #"https://via.placeholder.com/240x240"
   email: "aditya.tirumala@mail.mcgill.ca"
 #  phone: "(912) 555-4321"
@@ -65,7 +65,7 @@ work:
 
   - company: "Sample Culture"
     position: "Founder, Sound Designer"
-#    website: "https://mcgill.ca"
+    website: "https://soundcloud.com/sampleculture/tracks"
     startDate: "2014-08-15"
     endDate: "2016-08-19"
     summary: >
@@ -74,6 +74,14 @@ work:
     highlights:
       - "Designed and constructed a soundproof recording studio for Sample Culture, with a flat response b/w 20Hz-20kHz A-weighted."
       - "Award winning compositions, location sound and sound design for independent films and advertising agencies."
+
+misc_work:
+  - organization: "CIRMMT"
+    position: "Research Assistant"
+    website: "https://www.cirmmt.org/en"
+    startDate: "2017-05-15"
+    endDate: "2017-08-22"
+    summary: "Assisted in verifying an AI based non-intrusive pose-estimation system"
 #volunteer:
 #  - organization: "CoderDojo"
 #    position: "Teacher"
@@ -169,8 +177,14 @@ interests:
       - "One Class Learning"
       - "Ensemble Learning"
       - "Spectro-Temporal Graphs"
-#references:
-#  - name: "Erlich Bachman"
+  - name: "Generative Music and SFX"
+    keywords:
+      - "Audio Conditioned vs Text Conditioned Synthesis"
+      - "Audio Watermarking"
+references:
+  - name: "Marcelo M. Wanderley"
+  - name: "Philippe Depalle"
+  - name: "Ichiro Fujinaga"
 #    reference: >
 #      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
 #      Company proved that he will be a valuable addition to any company.
