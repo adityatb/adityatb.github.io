@@ -36,7 +36,7 @@ work:
     highlights:
       - "State of the art accuracy on real‑world classification of speech+audio. EER < 6% on Franhoufer's In the Wild dataset."
       - "Improving and maintaining changes to production via CI/CD and replicate AI."
-      - "Deep Learning R&D: Neural Upsampling, Audio Watermarking (neural/non‑neural), Audio Deepfake Detection"
+      - "Deep Learning R&D: Neural Upsampling, Audio Watermarking, Audio Deepfake Detection"
 
 #  - company: "McGill University"
 #    position: "Teaching Assistant"
