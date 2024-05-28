@@ -75,13 +75,13 @@ work:
       - "Designed and constructed a soundproof recording studio for Sample Culture, with a flat response b/w 20Hz-20kHz A-weighted."
       - "Award winning compositions, location sound and sound design for independent films and advertising agencies."
 
-misc_work:
-  - organization: "CIRMMT"
-    position: "Research Assistant"
-    website: "https://www.cirmmt.org/en"
-    startDate: "2017-05-15"
-    endDate: "2017-08-22"
-    summary: "Assisted in verifying an AI based non-intrusive pose-estimation system"
+#misc_work:
+#  - organization: "CIRMMT"
+#    position: "Research Assistant"
+#    website: "https://www.cirmmt.org/en"
+#    startDate: "2017-05-15"
+#    endDate: "2017-08-22"
+#    summary: "Assisted in verifying an AI based non-intrusive pose-estimation system"
 #volunteer:
 #  - organization: "CoderDojo"
 #    position: "Teacher"
