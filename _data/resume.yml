@@ -39,29 +39,29 @@ work:
       - "Improving and maintaining changes to production via CI/CD and replicate AI."
       - "Deep Learning R&D: Neural Upsampling, Audio Watermarking (neural/non‑neural), Audio Deepfake Detection"
 
-  - company: "McGill University"
-    position: "Teaching Assistant"
-    website: "https://mcgill.ca"
-    startDate: "2017-09-15"
-    endDate: "2017-12-22"
-    summary: >
-      McGill University's Department of Music Technology teaches the MUMT 305 course on MIDI synthesis using Max/MSP and C++.
-    highlights:
-      - "Assisting course instructors and students with course material and grading assignments"
-      - "Technical Skills: Max/MSP, C++, Arduino IDE"
-
-  - company: "CIRMMT"
-    position: "Research Assistant"
-    website: "https://mcgill.ca"
-    startDate: "2017-05-15"
-    endDate: "2017-08-22"
-    summary: >
-      The Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) is a multi-disciplinary research group that focuses on the
-        scientific study of music, sound, and technology. Assisted in verifying an AI based non-intrusive pose-estimation system 
-      with data from a Qualisys Motion Capture system.
-    highlights:
-      - "Assisted a research team of 5 in capturing and post‑processing motion capture data for a CIRMMT Industry Partner."
-      - "Motion Capture and Post-Processing with Qualisys MoCap"
+#  - company: "McGill University"
+#    position: "Teaching Assistant"
+#    website: "https://mcgill.ca"
+#    startDate: "2017-09-15"
+#    endDate: "2017-12-22"
+#    summary: >
+#      McGill University's Department of Music Technology teaches the MUMT 305 course on MIDI synthesis using Max/MSP and C++.
+#    highlights:
+#      - "Assisting course instructors and students with course material and grading assignments"
+#      - "Technical Skills: Max/MSP, C++, Arduino IDE"
+#
+#  - company: "CIRMMT"
+#    position: "Research Assistant"
+#    website: "https://mcgill.ca"
+#    startDate: "2017-05-15"
+#    endDate: "2017-08-22"
+#    summary: >
+#      The Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) is a multi-disciplinary research group that focuses on the
+#        scientific study of music, sound, and technology. Assisted in verifying an AI based non-intrusive pose-estimation system
+#      with data from a Qualisys Motion Capture system.
+#    highlights:
+#      - "Assisted a research team of 5 in capturing and post‑processing motion capture data for a CIRMMT Industry Partner."
+#      - "Motion Capture and Post-Processing with Qualisys MoCap"
 
   - company: "Sample Culture"
     position: "Founder, Sound Designer"
