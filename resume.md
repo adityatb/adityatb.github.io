@@ -11,6 +11,7 @@ left_column:
   - awards
   - publications
 right_column:
+  - misc_work
   - volunteer
   - languages
   - skills
