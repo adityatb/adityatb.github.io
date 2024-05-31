@@ -45,24 +45,6 @@ I'm always open to chat about these topics or generally advise other humans find
 
 [//]: # (├── licenses)
 
-[//]: # (├── assets)
-
-[//]: # (│   └── img)
-
-[//]: # (│       ├── blog)
-
-[//]: # (│       ├── docs)
-
-[//]: # (│       └── projects)
-
-[//]: # (├── CHANGELOG.md)
-
-[//]: # (├── forms-by-example.md)
-
-[//]: # (├── LICENSE.md)
-
-[//]: # (└── NOTICE.md)
-
 [//]: # (~~~)
 
 [documentation]: docs/README.md
