@@ -32,7 +32,7 @@ work:
     startDate: "2020-04-06"
     endDate: ""
     summary: >
-      I am currently leading the research and development of the deepfake detection system for audio.
+      Currently leading the research and development of the deepfake detection system for audio.
     highlights:
       - "State of the art accuracy on real‑world classification of speech+audio. EER < 6% on Franhoufer's In the Wild dataset."
       - "Improving and maintaining changes to production via CI/CD and replicate AI."
@@ -69,7 +69,7 @@ work:
     endDate: "2016-08-19"
     summary: >
       Location sound recording, sound design and audio production house catering to the needs of advertising agencies, independent filmmakers and
-        musicians in Hyderabad, India.
+        musicians in India.
     highlights:
       - "Constructed a soundproof recording studio for Sample Culture, with a flat response b/w 20Hz-20kHz A-weighted."
       - "Award winning compositions, location sound and sound design for independent films and advertising agencies."
@@ -98,11 +98,11 @@ education:
     endDate: "2019-10-20"
 #    gpa: "3.9"
     courses:
-      - "MUMT 605 - Digital Sound Synthesis and Audio Processing"
-      - "MUMT 618 - Computational Modeling of Musical Acoustic Systems"
-      - "MUMT 621 - Music Information Acquisition, Preservation, and Retrieval"
-      - "MUMT 619 - Input Devices for Musical Expression"
-      - "MUMT 620 - Gestural Control of Sound Synthesis"
+      - "Digital Sound Synthesis and Audio Processing"
+      - "Computational Modeling of Musical Acoustic Systems"
+      - "Music Information Acquisition, Preservation, and Retrieval"
+      - "Input Devices for Musical Expression"
+      - "Gestural Control of Sound Synthesis"
   - institution: "School of Audio Engineering"
     area: "Audio Engineering"
     studyType: "Bachelor"
