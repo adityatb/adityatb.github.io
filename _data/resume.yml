@@ -123,6 +123,12 @@ education:
 #    awarder: "Techcrunch"
 #    summary: "There is no spoon."
 publications:
+  - name: "Replay Attacks against Audio Deepfake Detection"
+      publisher: "ICSA-Interspeech 2025"
+      releaseDate: "2025-08-17"
+      website: "https://arxiv.org/abs/2505.14862"
+      summary: "We show how replay attacks undermine audio deepfake detection: By playing and re-recording deepfake audio through various speakers and microphones, we make spoofed samples appear authentic to the detection model."
+      
   - name: "Defining a vibrotactile toolkit for digital musical instruments: characterizing voice coil actuators, effects of loading, and equalization of the
 frequency response"
     publisher: "Journal on Multimodal User Interfaces 14, Springer"
