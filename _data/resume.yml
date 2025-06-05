@@ -116,12 +116,11 @@ education:
 #    awarder: "Techcrunch"
 #    summary: "There is no spoon."
 publications:
-  - name: "Defining a vibrotactile toolkit for digital musical instruments: characterizing voice coil actuators, effects of loading, and equalization of the
-frequency response"
-    publisher: "Journal on Multimodal User Interfaces 14, Springer"
-    releaseDate: "2020-07-01"
-    website: "https://link.springer.com/article/10.1007/s12193-020-00340-0"
-    summary: "Given the extreme requirements of musical performances, there is a need for solutions allowing for independent control of frequency and amplitude over a wide frequency bandwidth (40–1000 Hz) and low harmonic distortion, so that flexible and high-quality vibrotactile feedback can be displayed. In this paper, we evaluate cost-effective and portable solutions that meet these requirements."
+ - name: "Replay Attacks against Audio Deepfake Detection"
+    publisher: "ICSA-Interspeech 2025"
+    releaseDate: "2025-08-17"
+    website: "https://arxiv.org/abs/2505.14862"
+    summary: "We show how replay attacks undermine audio deepfake detection: By playing and re-recording deepfake audio through various speakers and microphones, we make spoofed samples appear authentic to the detection model."
 
   - name: "Autoregressive parameter estimation for equalizing vibrotactile systems"
     publisher: "International Workshop on Haptic and Audio Interaction Design-HAID2019"
